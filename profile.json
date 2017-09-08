@@ -1,0 +1,24 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198216673925",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "meh",
+				"lastlogoff": 1504792707,
+				"profileurl": "http://steamcommunity.com/id/leandriiing/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5c/5c58d5a02186b90e9490a76a565799724f5ba103.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5c/5c58d5a02186b90e9490a76a565799724f5ba103_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5c/5c58d5a02186b90e9490a76a565799724f5ba103_full.jpg",
+				"personastate": 0,
+				"realname": "Leandro Pajares",
+				"primaryclanid": "103582791455665133",
+				"timecreated": 1441466768,
+				"personastateflags": 0
+			}
+		]
+		
+	}
+}
+
