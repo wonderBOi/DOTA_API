@@ -1,6 +1,6 @@
-=======
+
 SUMMARY
-=======
+
 > Heroes List
 https://api.steampowered.com/IEconDOTA2_570/GetHeroes/v0001/?key=4D1E069932BC39133D4DCC47BC4FF3C6
 > Player Summary
