@@ -22,3 +22,23 @@
 	}
 }
 
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198332172658",
+				"communityvisibilitystate": 1,
+				"profilestate": 1,
+				"personaname": "ricardojuan",
+				"lastlogoff": 1504855141,
+				"commentpermission": 2,
+				"profileurl": "http://steamcommunity.com/id/kokok08/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/24/243ccfd4f6a1b7f91a1ea807edfe96b8e5c5fe29.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/24/243ccfd4f6a1b7f91a1ea807edfe96b8e5c5fe29_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/24/243ccfd4f6a1b7f91a1ea807edfe96b8e5c5fe29_full.jpg",
+				"personastate": 0
+			}
+		]
+		
+	}
+}
