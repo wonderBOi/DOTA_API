@@ -2,29 +2,29 @@ STEAM
 (Sources: https://github.com/l2x/dota2api, http://steamwebapi.azurewebsites.net/)
 
 PLAYER INFO
-http://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=4D1E069932BC39133D4DCC47BC4FF3C6&steamids=76561197994901575
+http://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key={apiKey}&steamids=76561197994901575
 
 FRIENDS LIST
-http://api.steampowered.com/ISteamUser/GetFriendList/v0001/?key=4D1E069932BC39133D4DCC47BC4FF3C6&steamids=76561197994901575
+http://api.steampowered.com/ISteamUser/GetFriendList/v0001/?key={apiKey}&steamids=76561197994901575
 
 PLAYER MATCHES
-https://api.steampowered.com/IDOTA2Match_570/GetMatchHistory/v001/?key=4D1E069932BC39133D4DCC47BC4FF3C6&account_id=34635847
-https://api.steampowered.com/IDOTA2Match_205790/GetMatchHistory/v1/?key=4D1E069932BC39133D4DCC47BC4FF3C6&account_id=34635847
+https://api.steampowered.com/IDOTA2Match_570/GetMatchHistory/v001/?key={apiKey}&account_id=34635847
+https://api.steampowered.com/IDOTA2Match_205790/GetMatchHistory/v1/?key={apiKey}&account_id=34635847
 
 MATCH DETAILS
-https://api.steampowered.com/IDOTA2Match_570/GetMatchDetails/v001/?key=4D1E069932BC39133D4DCC47BC4FF3C6&match_id=3436329176
-https://api.steampowered.com/IDOTA2Match_205790/GetMatchDetails/v1/?key=4D1E069932BC39133D4DCC47BC4FF3C6&match_id=3436329176
+https://api.steampowered.com/IDOTA2Match_570/GetMatchDetails/v001/?key={apiKey}&match_id=3436329176
+https://api.steampowered.com/IDOTA2Match_205790/GetMatchDetails/v1/?key={apiKey}&match_id=3436329176
 
 HEROES
-https://api.steampowered.com/IEconDOTA2_570/GetHeroes/v0001/?key=4D1E069932BC39133D4DCC47BC4FF3C6
-https://api.steampowered.com/IEconDOTA2_570/GetHeroes/v1/?key=4D1E069932BC39133D4DCC47BC4FF3C6
-https://api.steampowered.com/IEconDOTA2_205790/GetHeroes/v1/?key=4D1E069932BC39133D4DCC47BC4FF3C6
+https://api.steampowered.com/IEconDOTA2_570/GetHeroes/v0001/?key={apiKey}
+https://api.steampowered.com/IEconDOTA2_570/GetHeroes/v1/?key={apiKey}
+https://api.steampowered.com/IEconDOTA2_205790/GetHeroes/v1/?key={apiKey}
 
 ITEMS
-https://api.steampowered.com/IEconDOTA2_570/GetGameItems/v0001/?key=4D1E069932BC39133D4DCC47BC4FF3C6
-https://api.steampowered.com/IEconDOTA2_205790/GetGameItems/v1/?key=4D1E069932BC39133D4DCC47BC4FF3C6
-https://api.steampowered.com/IEconDOTA2_205790/GetItemIconPath/v1/?key=4D1E069932BC39133D4DCC47BC4FF3C6
-https://api.steampowered.com/IEconDOTA2_570/GetItemIconPath/v1/?key=4D1E069932BC39133D4DCC47BC4FF3C6
+https://api.steampowered.com/IEconDOTA2_570/GetGameItems/v0001/?key={apiKey}
+https://api.steampowered.com/IEconDOTA2_205790/GetGameItems/v1/?key={apiKey}
+https://api.steampowered.com/IEconDOTA2_205790/GetItemIconPath/v1/?key={apiKey}
+https://api.steampowered.com/IEconDOTA2_570/GetItemIconPath/v1/?key={apiKey}
 
 
 
